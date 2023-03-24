@@ -1,1 +1,2 @@
 # rule_based_classification_for_potential_customer_revenue
+A bike company wants to use some characteristics of its customers to develop new customer definitions based on level, develop segments in accordance with these new customer definitions, and calculate the average earnings of the new customers in accordance with these segments. Questions can be answered easily to get a quick foresight before the model is built. 
